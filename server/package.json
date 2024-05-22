@@ -1,0 +1,23 @@
+{
+  "name": "final-project-rishi-rana1",
+  "version": "1.0.0",
+  "description": "The content below is an example project proposal / requirements document. Replace the text below the lines marked \"__TODO__\" with details specific to your project. Remove the \"TODO\" lines.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongo-sanitize": "^1.1.0",
+    "mongoose": "^8.3.2",
+    "nodemon": "^3.1.0",
+    "uuid": "^9.0.1"
+  }
+}
